@@ -88,11 +88,6 @@ g++ client.cpp -o client -lssl -lcrypto
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots showing encrypted vs plaintext message exchange._
-
----
 
 ## 📝 License
 
